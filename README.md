@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hrRvYhBjYcExaRdMuB/giphy-downsized-large.gif" width="200"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/hrRvYhBjYcExaRdMuB/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
