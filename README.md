@@ -13,7 +13,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 Here are some ideas to get you started:
 
 -  :telescope: I’m currently learning technologies and frameworks based on .NET meringue
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems and develop my projects using the studied technology stackand,also I read tech articles.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
