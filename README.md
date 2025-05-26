@@ -23,7 +23,7 @@ What I Do:
 
 - Oversee business solution development for web and mobile platforms
 
-- Manage game & XR (AR/VR) production through my team at Martin’s Code
+- Manage game & XR (AR/VR) production through my team at Martin.s Code
 
 - Support clients from MVP to production scaling
   
