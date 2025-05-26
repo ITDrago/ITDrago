@@ -11,7 +11,7 @@ Hi, I’m Martin — a seasoned .NET Team Lead with over 4 years of experience i
 
 I’m also the founder of <a href="https://martinscode.tech/">Martin.s Code Studio</a> — a creative and ambitious team of developers focused on crafting game development projects, business solutions, and VR/AR applications for clients worldwide.
 
-⚙️ While the majority of our projects are protected by NDAs and stored in private repositories, they’ve been successfully deployed in industries ranging from education and retail to finance and gaming.
+⚙️ <strong>While the majority of our projects are protected by NDAs and stored in private repositories, they’ve been successfully deployed in industries ranging from education and retail to finance and gaming.</strong>
 
 What I Do:
 
