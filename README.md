@@ -32,7 +32,7 @@ What I Do:
 
 🌍 <a href="https://martinscode.tech/">Website</a> - our studio website
 
-📬 Business Inquiries: via <a href="https://t.me/greegggr">Telegram</a> or cimonyanmartin@gmail.com
+📬 Business Inquiries: via <a href="https://t.me/mscotech">Telegram</a> or cimonyanmartin@gmail.com
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
