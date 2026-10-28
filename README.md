@@ -7,26 +7,24 @@
 </h1>
 
 <h2>About me:</h2>
-Hi, I’m Martin — a seasoned .NET Team Lead with over 4 years of experience in enterprise software development. I specialize in building scalable backend solutions, managing development teams, and delivering high-quality results in complex business environments.
+Hi, I’m Martin — a technology leader and entrepreneur with 4+ years of experience in software development, technical leadership, and product delivery.
 
-I’m also the founder of <a href="https://martinscode.tech/">Martin.s Code Studio</a> — a creative and ambitious team of developers focused on crafting game development projects, business solutions, and VR/AR applications for clients worldwide.
+I currently focus on **leading engineering teams, managing complex technology projects, and turning business requirements into scalable, production-ready solutions.** My background in .NET/C# development and software architecture allows me to bridge the gap between business objectives and engineering execution.
 
-⚙️ <strong>While the majority of our projects are protected by NDAs and stored in private repositories, they’ve been successfully deployed in industries ranging from education and retail to finance and gaming.</strong>
+I’m also the founder of **Martin.s Code Studio**, where I lead a multidisciplinary team delivering game development projects, business software, and VR/AR applications for clients worldwide.
 
-What I Do:
+While many of our projects are covered by NDAs and maintained in private repositories, our work spans multiple industries, including education, retail, finance, and gaming.
 
-- Lead and mentor .NET/C# development teams
+### What I Do
 
-- Design clean, scalable, and testable architectures
+- **Engineering Leadership** — lead development teams, coordinate engineers, establish workflows, and support team growth.
+- **Project & Product Delivery** — manage projects from initial requirements and planning through development, deployment, and ongoing improvement.
+- **Technical Strategy & Architecture** — guide architectural decisions, evaluate technical solutions, and ensure systems remain scalable, maintainable, and reliable.
+- **Cross-functional Coordination** — align engineering, design, product, and business stakeholders around shared goals and delivery priorities.
+- **Business & Technology Alignment** — translate business needs into technical requirements, define project scope, and balance delivery timelines, quality, and resources.
+- **Entrepreneurship & Studio Management** — build and manage Martin.s Code Studio, overseeing client relationships, project execution, and the development of new business opportunities across software, gaming, and XR.
 
-- Coordinate product delivery, DevOps, and project management
-
-- Oversee business solution development for web and mobile platforms
-
-- Manage game & XR (AR/VR) production through my team at Martin.s Code
-
-- Support clients from MVP to production scaling
-  
+My approach combines hands-on technical experience with a management mindset: understanding the technology deeply enough to make informed decisions while keeping teams focused on business outcomes.
 <h3>🔗 Let’s Connect</h3>
 💬 <a href="https://t.me/MartinsCode">Telegram Channel</a> — behind-the-scenes content & tech updates
 
